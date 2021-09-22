@@ -19,4 +19,5 @@ _____________________________________
 
 # Features
 
-Cool Shit
+* Plans:
+* New WEEK AND SONGS AND CHARACTER AND BG SKETCH IN MENU, NEW LOGO AND OVERALL IMPROVEMENTS
